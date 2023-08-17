@@ -7,7 +7,7 @@ while at different occasions with different peaple  and perfoming different acti
 **copyright and lisence**
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2007] [Photography Site]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
